@@ -9,11 +9,7 @@ public class Solution {
       Scanner scan = new Scanner(System.in); 
       String inputString = scan.nextLine(); 
       scan.close();
-      
-      // Your first line of output goes here
       System.out.println("Hello, World.");
-      
-      // Write the second line of output
        System.out.println(inputString);
    }
 }
